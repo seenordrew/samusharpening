@@ -123,11 +123,10 @@ p {
 
 .contact {
 	background: url(../images/image3.jpg);
-	background-position: center center;
+	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-
 }
 
 .contact-info {
